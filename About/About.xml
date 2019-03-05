@@ -8,21 +8,25 @@
 	
 &lt;size=24&gt;Features&lt;/size&gt;
 
+This is an add-on mod for the Giddy-Up! mod that adds visual saddles to any mounts used by either the player or its enemies. These saddles are just eye candy, and don't affect any stats of the mounts.
+
+Note that Giddy-Up! Core is listed as a dependancy, but you will also need one of the Giddy-Up! modules at least, sionce the core on its own doesn't do anything :) The screenshots for example use Giddy-Up! Battle Mounts
 
 &lt;size=24&gt;Issues&lt;/size&gt;
 
+Some minor graphical glitches should be expected, such as saddles sometimes appearing over other saddles, but aside from that, nothing!
 
-&lt;size=24&gt;Plans for the future&lt;/size&gt;
+&lt;size=24&gt;Load Order&lt;/size&gt;
 
-
-&lt;size=24&gt;Compatibility&lt;/size&gt;
-
+Always load after Giddy-Up! Core and any other Giddy-Up! modules you are using
 
 &lt;size=24&gt;Credit&lt;/size&gt;
 
+Credit goes to Roolo for his amazing work on Giddy-Up!
 
 &lt;size=24&gt;Changelog&lt;/size&gt;
 
+v1.0: Mod released (5/3/19)
 v0.1: Prerelease
 </description>
 </ModMetaData>
