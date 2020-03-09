@@ -2,7 +2,24 @@
 <ModMetaData>
   <name>Giddy-Up! Add-on: Animal Saddles</name>
   <author>Sarg</author>
-  <supportedVersions><li>1.0</li></supportedVersions>
+  <supportedVersions>
+      <li>1.0</li>
+      <li>1.1</li>
+   </supportedVersions>
+	<modDependencies>
+     
+	  <li>
+        <packageId>roolo.giddyupcore</packageId>
+        <displayName>Giddy-up! Core</displayName>
+        <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1216999901</steamWorkshopUrl>
+      </li>
+     
+    </modDependencies>
+    <loadAfter>
+	  
+      <li>roolo.giddyupcore</li>
+    </loadAfter>
+		<packageId>sarg.giddyupsaddles</packageId>
   
   <description>Adds saddle graphics to mountable vanilla animals.
 	
@@ -26,6 +43,7 @@ Credit goes to Roolo for his amazing work on Giddy-Up!
 
 &lt;size=24&gt;Changelog&lt;/size&gt;
 
+v2.0: Updated for RW 1.1 (09/03/20)
 v1.0: Mod released (5/3/19)
 v0.1: Prerelease
 </description>
