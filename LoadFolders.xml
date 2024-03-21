@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <loadFolders>
-	<v1.2>
-		<li>1.2</li>
-		<li>Common</li>
-	</v1.2>
+	
 	<v1.3>
 		<li>1.3</li>
 		<li>Common</li>
@@ -13,4 +10,9 @@
 		<li IfModActive="owlchemist.giddyup">1.4/GiddyUp2</li>
 		<li>Common</li>
 	</v1.4>
+	<v1.5>
+		<li IfModActive="roolo.giddyupcore">1.5/GiddyUp</li>
+		<li IfModActive="owlchemist.giddyup">1.5/GiddyUp2</li>
+		<li>Common</li>
+	</v1.5>
 </loadFolders>
