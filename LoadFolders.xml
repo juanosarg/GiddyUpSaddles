@@ -12,7 +12,7 @@
 	</v1.4>
 	<v1.5>
 		<li IfModActive="roolo.giddyupcore">1.5/GiddyUp</li>
-		<li IfModActive="owlchemist.giddyup">1.5/GiddyUp2</li>
+		<li IfModActive="Owlchemist.GiddyUp">1.5/GiddyUp2</li>
 		<li>Common</li>
 	</v1.5>
 </loadFolders>
